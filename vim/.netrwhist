@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/haswell/dev/src/github.com/hasli-projects/hasli-api/bom/imported'
+let g:netrw_dirhist_2='/home/haswell/dev/src/github.com/hasli-projects/hasli-api/core-api'
+let g:netrw_dirhist_3='/home/haswell/dev/src/github.com/hasli-projects/hasli.io/bom/imported'
+let g:netrw_dirhist_4='/home/haswell/dev/src/github.com/hasli-projects/hasli-service/service-vault'
+let g:netrw_dirhist_5='/home/haswell/dev/src/github.com/hasli-projects/hasli.io/web/web-service'
+let g:netrw_dirhist_6='/home/haswell/.m2/repository/io/hasli/persist/bom-exported/1.00.000.000-SNAPSHOT'
+let g:netrw_dirhist_7='/opt/hasli-wildfly/modules/system/layers/base/org/hibernate/infinispan'
+let g:netrw_dirhist_8='/opt/hasli-wildfly/modules/system/layers/base/org/hibernate/infinispan/main'
+let g:netrw_dirhist_9='/home/haswell/.vim'
